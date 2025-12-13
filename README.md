@@ -1,4 +1,4 @@
-# Hi, I'm Pramod Rathnayake
+# Hi, I'm Pramod Rathnayake 👨‍💻
 
 I am an aspiring AI/ML engineer with a strong interest in machine learning, deep learning, and backend development. I enjoy building practical projects that solve real-world problems and help me grow as a developer.
 
