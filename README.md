@@ -11,7 +11,7 @@ I am an aspiring AI/ML engineer with a strong interest in machine learning, deep
 ## Skills
 - Programming: Python, Java  
 - Machine Learning and Data Science  
-- Basic Backend Development  
+- Backend Development
 - Git and GitHub  
 
 ## Projects
